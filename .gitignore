@@ -5,3 +5,6 @@ logs/
 .env
 *.log
 .DS_Store
+
+.cursor
+.mcp.json
